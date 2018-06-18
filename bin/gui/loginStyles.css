@@ -1,0 +1,10 @@
+.loginWindow{
+    -fx-background-image: url("\bg.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    ;
+}
+
+.jfx-date-picker .jfx-text-field{
+    -jfx-unfocus-color: 1E90FF;
+}
